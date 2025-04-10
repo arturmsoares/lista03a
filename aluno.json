@@ -1,3 +1,4 @@
 {
-    "aluno":{"nome": "Artur", "idade": 32}
+    "nome": "Artur",
+    "idade": 32
 }
